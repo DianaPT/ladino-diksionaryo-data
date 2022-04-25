@@ -11,7 +11,7 @@ versions:
     translations:
         english: back
         french: ''
-        portuguese: ''
+        portuguese: costas
         spanish: espalda
         turkish: sırt
 
@@ -23,7 +23,7 @@ versions:
     translations:
         english: backs
         french: ''
-        portuguese: ''
+        portuguese: costas
         spanish: espaldas
         turkish: sırt
 
