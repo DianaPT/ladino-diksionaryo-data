@@ -16,7 +16,7 @@ versions:
     translations:
         english: tongue
         french: ''
-        portuguese: ''
+        portuguese: língua
         spanish: luenga
         turkish: dil
 
@@ -33,7 +33,7 @@ versions:
     translations:
         english: tongues
         french: ''
-        portuguese: ''
+        portuguese: línguas
         spanish: luengas
         turkish: dil
 
