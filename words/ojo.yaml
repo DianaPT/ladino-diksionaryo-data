@@ -12,7 +12,7 @@ versions:
     translations:
         english: eye
         french: ''
-        portuguese: ''
+        portuguese: olho
         spanish: ojo
         turkish: göz
 
@@ -25,7 +25,7 @@ versions:
     translations:
         english: eyes
         french: ''
-        portuguese: ''
+        portuguese: olhos
         spanish: ojos
         turkish: göz
 
