@@ -11,7 +11,7 @@ versions:
     translations:
         english: moustache
         french: ''
-        portuguese: ''
+        portuguese: bigode
         spanish: bigote
         turkish: bıyık
 
@@ -23,7 +23,7 @@ versions:
     translations:
         english: moustaches
         french: ''
-        portuguese: ''
+        portuguese: bigodes
         spanish: bigotes
         turkish: bıyık
 
