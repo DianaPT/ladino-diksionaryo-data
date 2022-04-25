@@ -11,7 +11,7 @@ versions:
     translations:
         english: tooth
         french: ''
-        portuguese: ''
+        portuguese: dente
         spanish: diente
         turkish: diş
 
@@ -23,7 +23,7 @@ versions:
     translations:
         english: teeth
         french: ''
-        portuguese: ''
+        portuguese: dentes
         spanish: dientes
         turkish: diş
 
