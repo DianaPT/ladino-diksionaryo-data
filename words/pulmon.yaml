@@ -11,7 +11,7 @@ versions:
     translations:
         english: lung
         french: ''
-        portuguese: ''
+        portuguese: pulmão
         spanish: pulmon
         turkish: akciğerler
 
@@ -23,7 +23,7 @@ versions:
     translations:
         english: lungs
         french: ''
-        portuguese: ''
+        portuguese: pulmões
         spanish: pulmones
         turkish: akciğerler
 
