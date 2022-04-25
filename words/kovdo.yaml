@@ -12,7 +12,7 @@ versions:
     translations:
         english: elbow
         french: ''
-        portuguese: ''
+        portuguese: cotovelo
         spanish: codo
         turkish: dirsek
 
@@ -25,7 +25,7 @@ versions:
     translations:
         english: elbows
         french: ''
-        portuguese: ''
+        portuguese: cotovelos
         spanish: codos
         turkish: dirsek
 
