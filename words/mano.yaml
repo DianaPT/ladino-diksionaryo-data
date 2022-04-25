@@ -11,7 +11,7 @@ versions:
     translations:
         english: hand
         french: ''
-        portuguese: ''
+        portuguese: mão
         spanish: mano
         turkish: el
 
@@ -23,7 +23,7 @@ versions:
     translations:
         english: hands
         french: ''
-        portuguese: ''
+        portuguese: mãos
         spanish: manos
         turkish: el
 
