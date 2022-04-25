@@ -14,7 +14,7 @@ versions:
     translations:
         english: foot
         french: ''
-        portuguese: ''
+        portuguese: pé
         spanish: pié
         turkish: ayak
 
@@ -29,7 +29,7 @@ versions:
     translations:
         english: feet
         french: ''
-        portuguese: ''
+        portuguese: pés
         spanish: piés
         turkish: ayak
 
