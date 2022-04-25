@@ -16,7 +16,7 @@ versions:
     translations:
         english: liver
         french: ''
-        portuguese: ''
+        portuguese: fígado
         spanish: hígado
         turkish:
         - ciğer
@@ -35,7 +35,7 @@ versions:
     translations:
         english: livers
         french: ''
-        portuguese: ''
+        portuguese: fígados
         spanish: hígados
         turkish:
         - ciğer
