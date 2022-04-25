@@ -11,7 +11,7 @@ versions:
     translations:
         english: knee
         french: ''
-        portuguese: ''
+        portuguese: joelho
         spanish: rodilla
         turkish: diz
 
@@ -23,7 +23,7 @@ versions:
     translations:
         english: knees
         french: ''
-        portuguese: ''
+        portuguese: joelhos
         spanish: rodillas
         turkish: diz
 
