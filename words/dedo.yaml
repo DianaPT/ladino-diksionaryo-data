@@ -11,7 +11,7 @@ versions:
     translations:
         english: finger
         french: ''
-        portuguese: ''
+        portuguese: dedo
         spanish: dedo
         turkish: parmak
 
@@ -23,7 +23,7 @@ versions:
     translations:
         english: fingers
         french: ''
-        portuguese: ''
+        portuguese: dedos
         spanish: dedos
         turkish: parmak
 
