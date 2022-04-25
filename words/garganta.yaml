@@ -11,7 +11,7 @@ versions:
     translations:
         english: neck
         french: ''
-        portuguese: ''
+        portuguese: pescoço
         spanish: cuello
         turkish: boyun
 
@@ -23,7 +23,7 @@ versions:
     translations:
         english: necks
         french: ''
-        portuguese: ''
+        portuguese: pescoços
         spanish: cuellos
         turkish: boyun
 
