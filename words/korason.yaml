@@ -11,7 +11,7 @@ versions:
     translations:
         english: heart
         french: ''
-        portuguese: ''
+        portuguese: coração
         spanish: corazón
         turkish: kalp
 
@@ -23,7 +23,7 @@ versions:
     translations:
         english: hearts
         french: ''
-        portuguese: ''
+        portuguese: corações
         spanish: corazónes
         turkish: kalp
 
